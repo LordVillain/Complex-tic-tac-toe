@@ -1,0 +1,200 @@
+{
+  "player1_name": "",
+  "player2_name": "",
+  "player1_image": true,
+  "player2_image": true,
+  "current_player": "X",
+  "locked_row": 0,
+  "locked_col": 0,
+  "x_color": "#ffffff",
+  "o_color": "#ffffff",
+  "canva_color": "#68829e",
+  "small_blocks": [
+    [
+      {
+        "block_value": "",
+        "buttons": [
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "block_value": "",
+        "buttons": [
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "block_value": "",
+        "buttons": [
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null
+          ]
+        ]
+      }
+    ],
+    [
+      {
+        "block_value": "",
+        "buttons": [
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "block_value": "",
+        "buttons": [
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "block_value": "",
+        "buttons": [
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null
+          ]
+        ]
+      }
+    ],
+    [
+      {
+        "block_value": "",
+        "buttons": [
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "block_value": "",
+        "buttons": [
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "block_value": "",
+        "buttons": [
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null
+          ]
+        ]
+      }
+    ]
+  ]
+}
